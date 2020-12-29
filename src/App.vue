@@ -47,7 +47,4 @@ export default {
 .margin-padding{
   margin: 0 200px 0 200px; 
 }
-.width{
-  width: 500px;
-}
 </style>
